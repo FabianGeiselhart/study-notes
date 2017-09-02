@@ -11,7 +11,7 @@ Installing it makes installing ghc uneccessary. (At least on arch linux)
 
 ## Arithmetics
 
-* You can make infix functions prefix by wrapping them in ( ). (Spoil: wrapping them in ` ` makes them infix)
+* You can make infix functions prefix by wrapping them in ( ). (Spoil: wrapping them in \` \` makes them infix)
 
 * Wrap negative numbers in ( ) if they are the second argument of a function.
 
