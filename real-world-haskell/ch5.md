@@ -85,3 +85,9 @@ A explicit list of module imports has following advantages:
 * The `pretty` function takes the maximum length of a line of output and determines whether
   to use a ` ` or a `\n` at a softline.
 * The `fits` function checks whether a line fits.
+
+## Exercises
+
+* `nest` applies the `scanLine` function to every line. This checks whether the indentiation
+  level should change. There should be a better solution than using `scanLine` in line `101`
+  and `103`
